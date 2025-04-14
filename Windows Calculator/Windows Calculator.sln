@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Calculator", "Windows Calculator\Windows Calculator.csproj", "{B54EF3DA-7A79-4540-BF2C-34FE0B4774EE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hesap Makinesi", "Hesap Makinesi\Hesap Makinesi.vdproj", "{58C2B3F8-12EB-4424-84A9-BA3553A84295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54EF3DA-7A79-4540-BF2C-34FE0B4774EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54EF3DA-7A79-4540-BF2C-34FE0B4774EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54EF3DA-7A79-4540-BF2C-34FE0B4774EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54EF3DA-7A79-4540-BF2C-34FE0B4774EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C2B3F8-12EB-4424-84A9-BA3553A84295}.Debug|Any CPU.ActiveCfg = Debug
+		{58C2B3F8-12EB-4424-84A9-BA3553A84295}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78163586-CB70-4137-A565-DDD8AC368A9F}
+	EndGlobalSection
+EndGlobal

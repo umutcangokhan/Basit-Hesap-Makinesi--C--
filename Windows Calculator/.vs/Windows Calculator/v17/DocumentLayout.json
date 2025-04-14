@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\Windows Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EF3DA-7A79-4540-BF2C-34FE0B4774EE}|Windows Calculator\\Windows Calculator.csproj|c:\\users\\dell\\desktop\\windows calculator\\windows calculator\\windows calculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B54EF3DA-7A79-4540-BF2C-34FE0B4774EE}|Windows Calculator\\Windows Calculator.csproj|solutionrelative:windows calculator\\windows calculator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EF3DA-7A79-4540-BF2C-34FE0B4774EE}|Windows Calculator\\Windows Calculator.csproj|c:\\users\\dell\\desktop\\windows calculator\\windows calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54EF3DA-7A79-4540-BF2C-34FE0B4774EE}|Windows Calculator\\Windows Calculator.csproj|solutionrelative:windows calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EF3DA-7A79-4540-BF2C-34FE0B4774EE}|Windows Calculator\\Windows Calculator.csproj|c:\\users\\dell\\desktop\\windows calculator\\windows calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B54EF3DA-7A79-4540-BF2C-34FE0B4774EE}|Windows Calculator\\Windows Calculator.csproj|solutionrelative:windows calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Windows Calculator",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Windows Calculator\\Windows Calculator\\Windows Calculator.csproj",
+              "RelativeDocumentMoniker": "Windows Calculator\\Windows Calculator.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Windows Calculator\\Windows Calculator\\Windows Calculator.csproj",
+              "RelativeToolTip": "Windows Calculator\\Windows Calculator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T18:09:33.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Windows Calculator\\Windows Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Windows Calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Windows Calculator\\Windows Calculator\\Form1.cs",
+              "RelativeToolTip": "Windows Calculator\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwHEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:22:37.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Windows Calculator\\Windows Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Windows Calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Windows Calculator\\Windows Calculator\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Windows Calculator\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:07:09.685Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
